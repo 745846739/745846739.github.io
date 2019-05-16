@@ -79,5 +79,5 @@ theme: Cxo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git   
-  repo: http://745846739.github.io
+  repo: 745846739.github.io
   branch: master
